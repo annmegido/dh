@@ -1,4 +1,5 @@
 
 ##Vítejte
 
-<iframe src="https://uploads.knightlab.com/storymapjs/b5aa4be3a419ddf1d449d20592759f6d/husitske-valkz/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1JL1ai-kF-91l1Y1YKJbS49IymxhGx4uD9iKnbBIAYkM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
